@@ -30,8 +30,7 @@ class Scraper
   end
 
 end
-<<<<<<< HEAD
+
 Scraper.scrape_profile_page("/fixtures/student-site/students/ryan-johnson.html")
-=======
+
 Scraper.scrape_index_page("./fixtures/student-site/index.html")
->>>>>>> 0e1f55888a7d0e04ffe9af8db6f16c0f4c13a7c6
